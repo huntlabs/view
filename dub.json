@@ -1,11 +1,11 @@
 {
 	"name": "view",
 	"authors": [
-		"root"
+		"putao"
 	],
 	"stringImportPaths": [ "./resources/views" ],
 	"description": "A minimal D application.",
 	"copyright": "Copyright © 2017, root",
-	"license": "proprietary",
+	"license": "BSD",
 	"versions":["Debug"]
 }
